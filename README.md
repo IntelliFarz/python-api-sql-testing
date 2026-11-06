@@ -1,4 +1,4 @@
-# Assignment 2 - API, SQL & Pytest
+#  API, SQL & Pytest
 
 - `github_api.py` - Task 1: fetch GitHub users (login, public_repos)
 - `library.sql` - Task 2: library database queries
